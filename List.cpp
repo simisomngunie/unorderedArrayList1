@@ -2,7 +2,7 @@
 #include "StdAfx.h"
 #include <iostream>
 #include "List.h"
-//this is my first repository
+//this is my first repository GUI changes
 using namespace std;
 
 List::List(void)
